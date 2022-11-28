@@ -14,3 +14,6 @@ This program takes input of 2 complex numbers, and prints output of the 2 number
 5) Run "cnmain"
 6) Enter first complex number.
 7) Enter second complex number.
+
+### Sample Execution:
+![image](https://user-images.githubusercontent.com/33675444/204388340-9461468e-3f6c-44cd-8f12-6232f6ff0872.png)
